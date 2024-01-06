@@ -1,3 +1,4 @@
+//go:build integration
 // +build integration
 
 package internal_test
@@ -5,7 +6,7 @@ package internal_test
 import (
 	"testing"
 
-	"github.com/engelmi/go-sqs/internal"
+	"github.com/nguyenkhavi/go-sqs/internal"
 )
 
 func Test_NewClient(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	gosqs "github.com/engelmi/go-sqs"
+	gosqs "github.com/nguyenkhavi/go-sqs"
 )
 
 func main() {

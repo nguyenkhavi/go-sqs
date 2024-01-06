@@ -1,3 +1,4 @@
+//go:build unit
 // +build unit
 
 package gosqs_test
@@ -5,7 +6,7 @@ package gosqs_test
 import (
 	"testing"
 
-	gosqs "github.com/engelmi/go-sqs"
+	gosqs "github.com/nguyenkhavi/go-sqs"
 )
 
 func Test_MarshalToJson(t *testing.T) {

@@ -1,4 +1,4 @@
-module github.com/engelmi/go-sqs
+module github.com/nguyenkhavi/go-sqs
 
 go 1.17
 

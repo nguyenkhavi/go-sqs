@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	gosqs "github.com/engelmi/go-sqs"
-	"github.com/engelmi/go-sqs/examples"
+	gosqs "github.com/nguyenkhavi/go-sqs"
+	"github.com/nguyenkhavi/go-sqs/examples"
 	"github.com/sirupsen/logrus"
 )
 

@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/engelmi/go-sqs/examples"
+	"github.com/nguyenkhavi/go-sqs/examples"
 )
 
 func main() {
